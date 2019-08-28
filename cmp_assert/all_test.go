@@ -2,7 +2,7 @@ package cmp_assert_test
 
 import (
 	"github.com/google/go-cmp/cmp"
-	cmp_assert "github.com/snackmgmg/cmp-assert/cmp-assert"
+	"github.com/snackmgmg/cmp-assert/cmp_assert"
 	"testing"
 )
 
